@@ -5,7 +5,7 @@
     <named-config name="testc3p0">
         <!--指定连接数据源的基本属性-->
         <property name="user">root</property>
-        <property name="password">justdoit@@</property>
+        <property name="password">testtest</property>
         <property name="driverClass">com.mysql.cj.jdbc.Driver</property>
         <property name="jdbcUrl">jdbc:mysql://localhost:3306/testdemo?useUnicode=true&amp;characterEncoding=UTF-8</property>
 
