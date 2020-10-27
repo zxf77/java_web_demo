@@ -5,7 +5,11 @@
     <named-config name="testc3p0">
         <!--指定连接数据源的基本属性-->
         <property name="user">rootroot</property>
+<<<<<<< HEAD
         <property name="password">lsq的密码</property>
+=======
+        <property name="password">zzztest</property>
+>>>>>>> 6244afccb06da90cce80d2a2a7fb4a2b35907eba
         <property name="driverClass">com.mysql.cj.jdbc.Driver</property>
         <property name="jdbcUrl">jdbc:mysql://localhost:3306/testdemo?useUnicode=true&amp;characterEncoding=UTF-8</property>
 
